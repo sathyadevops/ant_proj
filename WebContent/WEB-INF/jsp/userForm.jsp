@@ -55,7 +55,7 @@
 		</tr>
 	</table>
 </form:form>
- <table border = "6" bgcolor="green" align="center">
+ <table border = "6" bgcolor="yellow" align="center">
          <tr>
             <th>Column 1</th>
             <th>Column 2</th>
