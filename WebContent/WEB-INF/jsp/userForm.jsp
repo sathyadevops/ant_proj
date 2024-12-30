@@ -1,3 +1,4 @@
+
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
 	pageEncoding="ISO-8859-1"%>
 <%@ taglib uri="http://www.springframework.org/tags/form" prefix="form"%>
@@ -31,6 +32,7 @@
 				<form:option value="1" label="IND" />
 				<form:option value="2" label="CHN" />
 				<form:option value="3" label="US" />
+	                         <form:option value="2" label="CHN" />
 				<form:option value="4" label="UK" />
 			</form:select></td>
 		</tr>
