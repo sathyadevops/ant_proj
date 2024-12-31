@@ -40,6 +40,8 @@
 				<form:option value="3" label="US" />
 	                         <form:option value="2" label="CHN" />
 				<form:option value="4" label="UK" />
+                                  <form:option value="2" label="CHN" />
+				<form:option value="4" label="UK" />
 			</form:select></td>
 		</tr>
 		<tr>
