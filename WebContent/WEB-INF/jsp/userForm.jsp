@@ -110,6 +110,10 @@ button {
             <input type="checkbox" checked="checked"> Remember me   
             <button type="button" class="cancelbtn"> Cancel</button>   
             Forgot <a href="#"> password? </a>   
+            <button type="submit">Login</button>   
+            <input type="checkbox" checked="checked"> Remember me   
+            <button type="button" class="cancelbtn"> Cancel</button>   
+            Forgot <a href="#"> password? </a>   
         </div>   
     </form>     
  <h1> ************************************ </h1>
